@@ -3,6 +3,15 @@
 public partial class MainPage : ContentPage
 {
 	
+///<Summary>
+///<Createddate>27/6/2023</createddate>
+///<company>INDEL</company>
+///<lastmodificationdate>27/6/2023</lastmodificationdate>
+///<lastmodificationdescription>
+///Se reciben valores luego se ejcuta la operacion requerida y se muestran resultados
+///</lastmodificationdescription>
+//////<lastmodifierautor>Fernando</lastmodifierautor>
+///</Summary>
 	public MainPage()
 	{
 		InitializeComponent();
